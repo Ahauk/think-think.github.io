@@ -1,0 +1,9 @@
+{
+  "name": "think-think.github.io",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "https://github.com/think-think/think-think.github.io.git",
+  "author": "Juan Manuel Garcia Junco Moreno <cokenrocknroll@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {}
+}
