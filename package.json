@@ -5,5 +5,11 @@
   "repository": "https://github.com/think-think/think-think.github.io.git",
   "author": "Juan Manuel Garcia Junco Moreno <cokenrocknroll@gmail.com>",
   "license": "MIT",
-  "devDependencies": {}
+  "devDependencies": {
+    "autoprefixer": "^7.1.1",
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-postcss": "^7.0.0"
+  }
 }
